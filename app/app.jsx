@@ -12,4 +12,4 @@ require('style!css!sass!applicationStyles')
 //   <p>Boilerplate 3 Project</p>,
 //   document.getElementById('app')
 // );
-require('./redux-todo-example.jsx');
+require('./redux-example.jsx');
